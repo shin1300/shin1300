@@ -11,6 +11,7 @@
 
 
 <!-- About Me -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **About Me**
 Hi, I'm **Shintaro Niwamoto**, a first-year master's student at **Nara Institute of Science and Technology (NAIST)**.  
 I work on **ubiquitous computing**, designing and implementing systems that seamlessly blend into the real world.  
 My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**.  
