@@ -6,8 +6,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
 </div>
 
+<!-- Typing 行の左に “手を振る” をインラインで追加 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+       alt="Waving Hand" width="28" height="28" style="vertical-align:middle; margin-right:8px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shintaro+Niwamoto;Systems+%26+ML+Engineer;C%2FC%2B%2B%2FC%23+%7C+Python(ML)+%7C+Java%2FJS" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -17,18 +20,16 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+  <img src="https://skillicons.dev/icons?i=python" width="100" height="100" alt="Python" />
+  <br><strong>Systems & ML</strong>
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+### 👋 **Hi, I'm Shintaro Niwamoto!**
+🔧 **Systems & ML Engineer** — C/C++/C#、Java（Android）、Python（ML/生成）  
+🧠 メモリ管理・データ構造が得意。最近は **ML × アプリ** に注力  
+📍 Japan 🇯🇵  
+🎯 Goal: 現実に役立つ ML とプロダクトの橋渡し
 
 </td>
 </tr>
@@ -39,11 +40,11 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shin1300&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shin1300&custom_title=Shintaro's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ## 🛠️ **Tech Stack**
@@ -52,26 +53,27 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### 🧩 **Systems / Android**
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,unity" />
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+### 🤖 **ML / Generative**
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+### 🔧 **Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+### 💻 **Web Basics**
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
-
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 🗒️ **Notes**
+- C（3年）：`malloc`/構造体/ポインタでデータ構造実装  
+- C++（半年）：AtCoder B 問題レベル  
+- C#（1年）：Unity×Android（スキャン物体の積み上げゲーム）  
+- Java（1年）：センサ値で状態遷移する Android アプリ  
+- Python（2年）：機械学習・生成モデル
 
 </td>
 </tr>
@@ -80,7 +82,7 @@
 ## 🏆 **GitHub Trophies (Commits)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shin1300&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div>
 
 ## 💭 **Random Dev Quote**
@@ -95,8 +97,8 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [user](https://github.com/user) with ❤️**
-  
-  *"Flutter makes everything beautiful! 🦋"*
+
+  **⭐ From [shin1300](https://github.com/shin1300) with ❤️**
+
+  <sub>Emoji assets: Microsoft Fluent Emoji (MIT), via Animated Fluent Emojis.</sub>
 </div>
