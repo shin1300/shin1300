@@ -1,40 +1,51 @@
-# 👋 Hi, I'm Shintaro Niwamoto
+<!-- ────────────── Hero / Banner ────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Shintaro%20Niwamoto&fontSize=40&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descAlign=50" alt="header banner"/>
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/shin1300?label=Follow&style=social)
+<p align="center">
+  <a href="https://github.com/shin1300">
+    <img src="https://img.shields.io/github/followers/shin1300?label=Follow&style=social" alt="followers"/>
+  </a>
+</p>
 
 ---
 
 <table>
 <tr>
-<td width="50%" valign="top">
+  <!-- ============ LEFT: STATUS ============ -->
+  <td width="50%" valign="top">
 
-<h2>📊 Status</h2>
+    <h3>📊 Status</h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&theme=tokyonight" alt="Shintaro's GitHub stats" width="100%">
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shin1300&theme=tokyonight" alt="GitHub Streak" width="100%">
-</p>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&theme=tokyonight"
+           alt="GitHub stats" width="100%">
+    </p>
 
-</td>
-<td width="50%" valign="top" align="center">
+    <p>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=shin1300&theme=tokyonight"
+           alt="GitHub Streak" width="100%">
+    </p>
 
-<h2>🧠 Languages</h2>
+  </td>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" alt="C">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" alt="C++">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44" alt="C#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" alt="Java">
-</p>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" alt="Python">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" alt="CSS3">
-</p>
+  <!-- ============ RIGHT: LANGUAGES ============ -->
+  <td width="50%" valign="top" align="center">
 
-</td>
+    <h3>🧠 Languages</h3>
+
+    <!-- skillicons.dev で一括・整列表示 -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,python,html,css&perline=4" alt="languages icons">
+
+    <!-- 好みで説明を一行だけ添える -->
+    <sub>C / C++ / C# / Java / JavaScript / Python / HTML / CSS</sub>
+
+  </td>
 </tr>
 </table>
+
+<!-- ────────────── Footer wave ────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer" alt="footer wave"/>
+</p>
