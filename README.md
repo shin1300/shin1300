@@ -20,9 +20,10 @@ I love blending creativity with technology — and this page is a little showcas
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
 ## Shintaro’s Tech Stack Trio
 
-[![Languages](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%93%9D%20Languages&align=center&lineCount=3&line1=c,C,auto;cplusplus,C%2B%2B,auto;csharp,C%23,auto;java,Java,auto&line2=python,Python,auto;javascript,JavaScript,auto;html5,HTML5,auto&line3=css3,CSS3,auto;postgresql,PostgreSQL,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
-[![Frameworks & Libraries](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%93%9A%20Frameworks%20%26%20Libraries&align=center&lineCount=2&line1=scikitlearn,scikit-learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=unity,Unity,auto;blender,Blender,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
-[![Tools, AI Assistants & GPU](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F%20Tools%2C%20AI%20Assistants%20%26%20GPU&align=center&lineCount=3&line1=visualstudiocode,VS%20Code,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto&line2=githubcopilot,GitHub%20Copilot,auto;anthropic,Claude,auto;openai,Codex,auto&line3=nvidia,NVIDIA,auto;nvidia,GPU%20Server,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+[![Languages & Platforms](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A9%20Languages%20%26%20Platforms&align=center&lineCount=3&line1=c,C,auto;cplusplus,C%2B%2B,auto;csharp,C%23,auto;java,Java,auto&line2=python,Python,auto;javascript,JavaScript,auto;html5,HTML5,auto;css3,CSS3,auto&line3=unity,Unity,auto;blender,Blender,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+[![Data & ML](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A0%20Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit-learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+[![DevTools & Environment](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F%20DevTools%20%26%20Environment&align=center&lineCount=3&line1=visualstudiocode,VS%20Code,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto&line2=anaconda,Conda,auto;uv,uv,auto;nvidia,NVIDIA,auto&line3=nvidia,GPU%20Server,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+[![AI Assistants & Extensibility](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A4%9D%20AI%20Assistants%20%26%20Extensibility&align=center&lineCount=1&line1=githubcopilot,GitHub%20Copilot,auto;anthropic,Claude,auto;openai,Codex,auto;mcp,MCP,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
 <!-- GitHub Analytics -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
@@ -48,70 +49,45 @@ Feel free to reach out or connect through any of the platforms below👇
 <script src="https://code.iconify.design/3/3.1.1/iconify.min.js"></script>
 
 <!-- Contact & Profiles -->
-<ul class="links">
+<!-- Contact & Profiles -->
+<ul>
   <li>
     <a href="mailto:shintaro.niwamoto@ubi-lab.com">
-      <span class="iconify" data-icon="mdi:email-outline"></span>
-      Email
+      <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" />
     </a>
   </li>
   <li>
     <a href="https://x.com/ubishin130">
-      <span class="iconify" data-icon="simple-icons:x"></span>
-      X（Twitter）
+      <img src="https://img.shields.io/badge/X-ubishin130-333?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
     </a>
   </li>
   <li>
     <a href="https://atcoder.jp/users/ubishin">
-      <span class="iconify" data-icon="simple-icons:atcoder"></span>
-      AtCoder
+      <img src="https://img.shields.io/badge/AtCoder-ubishin-333?style=flat-square" alt="AtCoder" />
     </a>
   </li>
   <li>
     <a href="https://www.kaggle.com/shinta120">
-      <span class="iconify" data-icon="simple-icons:kaggle"></span>
-      Kaggle
+      <img src="https://img.shields.io/badge/Kaggle-shinta120-333?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a>
   </li>
   <li>
     <a href="https://qiita.com/shin1300">
-      <span class="iconify" data-icon="simple-icons:qiita"></span>
-      Qiita
+      <img src="https://img.shields.io/badge/Qiita-shin1300-333?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
     </a>
   </li>
   <li>
     <a href="https://zenn.dev/ubishin">
-      <span class="iconify" data-icon="simple-icons:zenn"></span>
-      Zenn
+      <img src="https://img.shields.io/badge/Zenn-ubishin-333?style=flat-square" alt="Zenn" />
     </a>
   </li>
   <li>
     <a href="https://note.com/ubishin">
-      <span class="iconify" data-icon="simple-icons:note"></span>
-      note
+      <img src="https://img.shields.io/badge/note-ubishin-333?style=flat-square" alt="note" />
     </a>
   </li>
 </ul>
 
-<style>
-  .links {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  .links li { margin: 6px 0; }
-  .links a {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    text-decoration: none;
-    color: inherit;
-  }
-  .links .iconify {
-    font-size: 18px;   /* ここで全アイコンの大きさを統一 */
-    line-height: 1;
-  }
-</style>
 
 
 
