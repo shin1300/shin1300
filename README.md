@@ -24,65 +24,6 @@ I love blending creativity with technology — and this page is a little showcas
 [![DevTools & Environment](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F%20DevTools%20%26%20Environment&align=center&lineCount=2&line1=git,Git,auto;docker,Docker,auto&line2=anaconda,Conda,auto;uv,uv,auto;nvidia,NVIDIA,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 [![AI Assistants](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A4%9D%20AI%20Assistants&align=center&lineCount=1&line1=githubcopilot,GitHub%20Copilot,auto;claude,Claude,auto;openai,Codex,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
-<!-- 2×2 のカードグリッド。幅は好みで 48% ↔ 49% 調整してください -->
-<p align="center">
-  <a href="https://github-readme-tech-stack.vercel.app/api/cards">
-    <img width="48%" alt="Languages & Platforms"
-      src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A9%20Languages%20%26%20Platforms&align=center&lineCount=2&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto" />
-  </a>
-  <a href="https://github-readme-tech-stack.vercel.app/api/cards">
-    <img width="48%" alt="Data & ML"
-      src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A0%20Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github-readme-tech-stack.vercel.app/api/cards">
-    <img width="48%" alt="DevTools & Environment"
-      src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F%20DevTools%20%26%20Environment&align=center&lineCount=2&line1=git,Git,auto;docker,Docker,auto&line2=anaconda,Conda,auto;uv,uv,auto;nvidia,NVIDIA,auto" />
-  </a>
-  <a href="https://github-readme-tech-stack.vercel.app/api/cards">
-    <img width="48%" alt="AI Assistants"
-      src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A4%9D%20AI%20Assistants&align=center&lineCount=1&line1=githubcopilot,GitHub%20Copilot,auto;claude,Claude,auto;openai,Codex,auto" />
-  </a>
-</p>
-<!-- 1ブロックずつ余白を広めに。キャプション風の小見出しを付けています -->
-<div align="center">
-
-  <div style="margin: 12px 0;">
-    <div><sub>🧩 Languages & Platforms</sub></div>
-    <a href="https://github-readme-tech-stack.vercel.app/api/cards">
-      <img width="92%" alt="Languages & Platforms"
-        src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A9%20Languages%20%26%20Platforms&align=center&lineCount=2&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto" />
-    </a>
-  </div>
-
-  <div style="display: inline-block; width: 48%; vertical-align: top; margin: 8px 0;">
-    <div><sub>🧠 Data & ML</sub></div>
-    <a href="https://github-readme-tech-stack.vercel.app/api/cards">
-      <img width="100%" alt="Data & ML"
-        src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A0%20Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto" />
-    </a>
-  </div>
-
-  <div style="display: inline-block; width: 48%; vertical-align: top; margin: 8px 0;">
-    <div><sub>🛠️ DevTools & Environment</sub></div>
-    <a href="https://github-readme-tech-stack.vercel.app/api/cards">
-      <img width="100%" alt="DevTools & Environment"
-        src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F%20DevTools%20%26%20Environment&align=center&lineCount=2&line1=git,Git,auto;docker,Docker,auto&line2=anaconda,Conda,auto;uv,uv,auto;nvidia,NVIDIA,auto" />
-    </a>
-  </div>
-
-  <div style="margin: 12px 0;">
-    <div><sub>🤝 AI Assistants</sub></div>
-    <a href="https://github-readme-tech-stack.vercel.app/api/cards">
-      <img width="92%" alt="AI Assistants"
-        src="https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A4%9D%20AI%20Assistants&align=center&lineCount=1&line1=githubcopilot,GitHub%20Copilot,auto;claude,Claude,auto;openai,Codex,auto" />
-    </a>
-  </div>
-
-</div>
-
 
 <!-- GitHub Analytics -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
