@@ -1,5 +1,5 @@
 <!-- Background -->
-<img src="assets/background.jpg" alt="sunrise" width="100%" />
+<img src="assets/background.JPG" alt="sunrise" width="100%" />
 
 <!-- Typograssy -->
 <img
