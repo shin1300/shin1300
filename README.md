@@ -81,11 +81,33 @@ Feel free to reach out or connect through any of the platforms below👇
 
 <div align="center">
 
-<!-- Contact & Profiles -->
-<div align="center">
+### 📇 Contact & Profiles
 
-### 📇 Contact & Profiles [![Mail](https://img.shields.io/badge/Mail-shintaro.niwamoto%40ubi--lab.com-555?style=flat-square&logo=gmail)](mailto:shintaro.niwamoto@ubi-lab.com) [![X (Twitter)](https://img.shields.io/badge/X%20%28Twitter%29-ubishin130-000000?style=flat-square&logo=x)](https://x.com/ubishin130) [![AtCoder](https://img.shields.io/badge/AtCoder-ubishin-2C2C2C?style=flat-square)](https://atcoder.jp/users/ubishin) [![Kaggle](https://img.shields.io/badge/Kaggle-shinta120-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/shinta120) [![Qiita](https://img.shields.io/badge/Qiita-shin1300-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/shin1300) [![Zenn](https://img.shields.io/badge/Zenn-ubishin-3EA8FF?style=flat-square)](https://zenn.dev/ubishin) [![note](https://img.shields.io/badge/note-ubishin-41C9B4?style=flat-square)](https://note.com/ubishin)
-</div>
+<p>
+  <a href="mailto:shintaro.niwamoto@ubi-lab.com">
+    <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/ubishin130">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-ubishin130-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://atcoder.jp/users/ubishin">
+    <img src="https://img.shields.io/badge/AtCoder-ubishin-2C2C2C?style=for-the-badge" alt="AtCoder" />
+  </a>
+  <a href="https://www.kaggle.com/shinta120">
+    <img src="https://img.shields.io/badge/Kaggle-shinta120-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <br/>
+  <a href="https://qiita.com/shin1300">
+    <img src="https://img.shields.io/badge/Qiita-shin1300-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
+  </a>
+  <a href="https://zenn.dev/ubishin">
+    <img src="https://img.shields.io/badge/Zenn-ubishin-3EA8FF?style=for-the-badge" alt="Zenn" />
+  </a>
+  <a href="https://note.com/ubishin">
+    <img src="https://img.shields.io/badge/note-ubishin-41C9B4?style=for-the-badge" alt="note" />
+  </a>
+</p>
+
 
 </div>
 
