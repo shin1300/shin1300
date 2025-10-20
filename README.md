@@ -2,8 +2,8 @@
 <img src="assets/background.JPG" alt="sunrise" width="100%" />
 
 <!-- Typograssy -->
-<img
-  src="https://typograssy.deno.dev/api?text=Niwamoto%20Shintaro%20&bg=none&frame=none&comment="
+<img  error message is the one that never shows up.
+  src="https://typograssy.deno.dev/api?text=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&bg=none&frame=none&comment="
   width="100%"
   alt="typograssy"
 />
