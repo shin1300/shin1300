@@ -1,13 +1,20 @@
-<div style="position: relative; display: inline-block; width: 100%;">
-  <img src="./assets/background.png" width="100%" alt="Background">
-  <img src="https://typograssy.deno.dev/api?text=Shintaro%20Niwamoto%20&bg=none&frame=none&comment="
-       style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"
-       width="80%" alt="typograssy">
-</div>
+<!-- Background -->
+<img src="./assets/background.png" width="100%" alt="Background">
+
+<!-- Typograssy -->
+<img
+  src="https://typograssy.deno.dev/api?text=Niwamoto%20Shintaro%20&bg=none&frame=none&comment="
+  width="100%"
+  alt="typograssy"
+/>
+
 
 
 <!-- About Me -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Hi, I'm Shintaro Niwamoto!**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **About Me**
+Hi, I'm **Shintaro Niwamoto**, a systems and ML engineer passionate about creating scalable, practical, and elegant solutions.  
+I enjoy working with low-level systems, ML models, and tools that make engineers more productive.  
+I love blending creativity with technology — and this page is a little showcase of that.
 
 <!-- Tech Stack -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
@@ -42,8 +49,16 @@
 <!-- Contact -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact**
 
+Feel free to reach out or connect through any of the platforms below👇  
+
 <div align="center">
-  📧 shintaro.niwamoto@ubi-lab.com
+  ✉️ **Mail:** shintaro.niwamoto@ubi-lab.com  
+  🐦 **X (Twitter):** None  
+  🧮 **AtCoder:** ubishin  
+  🧠 **Kaggle:** shinta120  
+  📝 **Qiita:** shin1300  
+  🌱 **Zenn:** ubishin  
+  🗒️ **Note:** ubishin
 </div>
 
 <!-- Footer -->
