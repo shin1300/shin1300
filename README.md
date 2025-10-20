@@ -46,13 +46,11 @@ I love blending creativity with technology — and this page is a little showcas
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
 </div>
 
-
-<!-- 他テーマを並べたいとき（必要なら有効化）
 <p align="center">
   <img src="./profile-3d-contrib/profile-gitblock.svg" width="49%" alt="3D Contribution Graph (gitblock)">
   <img src="./profile-3d-contrib/profile-green.svg" width="49%" alt="3D Contribution Graph (green)">
 </p>
--->
+
 <!-- Contact -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact**
 
