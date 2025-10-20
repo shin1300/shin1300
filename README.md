@@ -23,8 +23,7 @@ Here’s the **tech stack** I use in my daily research and development.
 
 [![Languages & Platforms](https://github-readme-tech-stack.vercel.app/api/cards?title=Languages%20%26%20Platforms&align=center&lineCount=3&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto&line3=raspberrypi,Raspberry%20Pi,auto;arduino,Arduino,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
-[![Data & ML](https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20%26%20ML&align=center&lineCount=3&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto&line3=matplotlib,Matplotlib,auto;seaborn,Seaborn,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
-
+[![Data & ML](https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
 [![DevTools & Environment](https://github-readme-tech-stack.vercel.app/api/cards?title=DevTools%20%26%20Environment&align=center&lineCount=2&line1=git,Git,auto;docker,Docker,auto&line2=anaconda,Conda,auto;uv,uv,auto;nvidia,NVIDIA,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
