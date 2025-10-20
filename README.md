@@ -2,7 +2,7 @@
 <img src="./assets/background.png" width="100%" alt="Background">
 
 <!-- Typograssy -->
-<img src="https://typograssy.deno.dev/api?text=Shintaro%20Niwamoto%20Systems%20%26%20ML%20Engineer%20"
+<img src="https://typograssy.deno.dev/api?text=Shintaro%20Niwamoto%20&bg=none&comment=&speed=140"
      width="100%" alt="typograssy">
 
 <!-- About Me -->
