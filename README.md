@@ -37,7 +37,8 @@
 
 </div>
 
-## 📊 **GitHub Analytics**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shin1300&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
