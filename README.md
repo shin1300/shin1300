@@ -20,14 +20,9 @@ I love blending creativity with technology — and this page is a little showcas
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
 ## Shintaro’s Tech Stack Trio
 
-### 基盤言語 & DB
-![Languages & DB](https://github-readme-tech-stack.vercel.app/api/cards?title=Languages%20%26%20DB&lineCount=3&line1=Python,JavaScript,Java&line2=C,Cplusplus,Csharp&line3=HTML5,CSS3,PostgreSQL)
-
-### AI / グラフィクス
-![AI / Graphics](https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20%2F%20Graphics&lineCount=2&line1=Scikitlearn,Tensorflow,Pytorch&line2=Unity,Blender)
-
-### 開発・運用ツール / アシスタント / Compute
-![DevOps / Assistants / Compute](https://github-readme-tech-stack.vercel.app/api/cards?title=DevOps%20%2F%20Assistants%20%2F%20Compute&lineCount=3&line1=Visualstudiocode,Git,Github&line2=Docker,Githubcopilot,Anthropic&line3=Openai,Nvidia)
+[![Languages](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%93%9D%20Languages&align=center&lineCount=3&line1=c,C,auto;cplusplus,C%2B%2B,auto;csharp,C%23,auto;java,Java,auto&line2=python,Python,auto;javascript,JavaScript,auto;html5,HTML5,auto&line3=css3,CSS3,auto;postgresql,PostgreSQL,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+[![Frameworks & Libraries](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%93%9A%20Frameworks%20%26%20Libraries&align=center&lineCount=2&line1=scikitlearn,scikit-learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=unity,Unity,auto;blender,Blender,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+[![Tools, AI Assistants & GPU](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F%20Tools%2C%20AI%20Assistants%20%26%20GPU&align=center&lineCount=3&line1=visualstudiocode,VS%20Code,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto&line2=githubcopilot,GitHub%20Copilot,auto;anthropic,Claude,auto;openai,Codex,auto&line3=nvidia,NVIDIA,auto;nvidia,GPU%20Server,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
 <!-- GitHub Analytics -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
