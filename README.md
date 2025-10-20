@@ -8,8 +8,7 @@
 
 <!-- Typing 行の左に “手を振る” をインラインで追加 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
-       alt="Waving Hand" width="28" height="28" style="vertical-align:middle; margin-right:8px;">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shintaro+Niwamoto;Systems+%26+ML+Engineer;C%2FC%2B%2B%2FC%23+%7C+Python(ML)+%7C+Java%2FJS" alt="Typing SVG" />
 </div>
 
@@ -25,7 +24,8 @@
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm Shintaro Niwamoto!**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Hi, I'm Shintaro Niwamoto!**
+
 🔧 **Systems & ML Engineer** — C/C++/C#、Java（Android）、Python（ML/生成）  
 🧠 メモリ管理・データ構造が得意。最近は **ML × アプリ** に注力  
 📍 Japan 🇯🇵  
