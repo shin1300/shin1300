@@ -11,14 +11,16 @@
 
 
 <!-- About Me -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **About Me**
-Hi, I'm **Shintaro Niwamoto**, a systems and ML engineer passionate about creating scalable, practical, and elegant solutions.  
-I enjoy working with low-level systems, ML models, and tools that make engineers more productive.  
-I love blending creativity with technology — and this page is a little showcase of that.
+Hi, I'm **Shintaro Niwamoto**, a first-year master's student at **Nara Institute of Science and Technology (NAIST)**.  
+I work on **ubiquitous computing**, designing and implementing systems that seamlessly blend into the real world.  
+My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**.  
+I love exploring new technologies, and one of my favorite quotes is:  
+> “**The best error message is the one that never shows up.**”  
+(You’ll also find it flowing through my Typograssy banner!)
 
 <!-- Tech Stack -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
-
+Here’s the stack I use in my daily research and development.
 [![Languages & Platforms](https://github-readme-tech-stack.vercel.app/api/cards?title=Languages%20%26%20Platforms&align=center&lineCount=2&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
 [![Data & ML](https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
@@ -30,7 +32,8 @@ I love blending creativity with technology — and this page is a little showcas
 
 <!-- GitHub Analytics -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
-
+A snapshot of my activity.  
+Feel free to explore my repositories and recent commits!
 <div align="center">
   <!-- 左：GitHub Readme Stats -->
   <img
@@ -46,8 +49,8 @@ I love blending creativity with technology — and this page is a little showcas
 <!-- Contact -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact & Profiles**
 
-Feel free to reach out or connect through any of the platforms below👇  
-
+Questions, ideas, or just want to chat?  
+Feel free to reach out — just **tap** the links below 👇
 <ul>
   <li>
     <a href="mailto:shintaro.niwamoto@ubi-lab.com">
