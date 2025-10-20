@@ -50,7 +50,7 @@ I love blending creativity with technology — and this page is a little showcas
     width="55%" style="vertical-align:top;">
   <!-- 右：3D Contrib -->
   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"
-       width="44%" style="vertical-align:top;">
+       width="40%" style="vertical-align:top;">
 </div>
 
 
