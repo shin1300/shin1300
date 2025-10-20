@@ -42,15 +42,10 @@ I love blending creativity with technology — and this page is a little showcas
 
 
 <!-- Contact -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact & Profiles**
 
 Feel free to reach out or connect through any of the platforms below👇  
 
-<!-- Iconify（CDN） -->
-<script src="https://code.iconify.design/3/3.1.1/iconify.min.js"></script>
-
-<!-- Contact & Profiles -->
-<!-- Contact & Profiles -->
 <ul>
   <li>
     <a href="mailto:shintaro.niwamoto@ubi-lab.com">
