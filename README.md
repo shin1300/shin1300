@@ -84,54 +84,33 @@ Feel free to reach out or connect through any of the platforms below👇
 
 ## 📇 Contact & Profiles
 
-<!-- ✦ すっきり見える2列グリッド（テーブル） -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:shintaro.niwamoto@ubi-lab.com">
-        <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://x.com/ubishin130">
-        <img src="https://img.shields.io/badge/X%20(Twitter)-ubishin130-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://atcoder.jp/users/ubishin">
-        <img src="https://img.shields.io/badge/AtCoder-ubishin-2C2C2C?style=for-the-badge" alt="AtCoder" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/shinta120">
-        <img src="https://img.shields.io/badge/Kaggle-shinta120-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://qiita.com/shin1300">
-        <img src="https://img.shields.io/badge/Qiita-shin1300-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://zenn.dev/ubishin">
-        <img src="https://img.shields.io/badge/Zenn-ubishin-3EA8FF?style=for-the-badge" alt="Zenn" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://note.com/ubishin">
-        <img src="https://img.shields.io/badge/note-ubishin-41C9B4?style=for-the-badge" alt="note" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- Contact & Profiles -->
+### 📇 Contact & Profiles
 
-<!-- モバイルのときはテーブルが縦積みされるので崩れにくい -->
+<p>
+  <a href="mailto:shintaro.niwamoto@ubi-lab.com">
+    <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a><br/>
+  <a href="https://x.com/ubishin130">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-ubishin130-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a><br/>
+  <a href="https://atcoder.jp/users/ubishin">
+    <img src="https://img.shields.io/badge/AtCoder-ubishin-2C2C2C?style=flat-square" alt="AtCoder" />
+  </a><br/>
+  <a href="https://www.kaggle.com/shinta120">
+    <img src="https://img.shields.io/badge/Kaggle-shinta120-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a><br/>
+  <a href="https://qiita.com/shin1300">
+    <img src="https://img.shields.io/badge/Qiita-shin1300-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+  </a><br/>
+  <a href="https://zenn.dev/ubishin">
+    <img src="https://img.shields.io/badge/Zenn-ubishin-3EA8FF?style=flat-square" alt="Zenn" />
+  </a><br/>
+  <a href="https://note.com/ubishin">
+    <img src="https://img.shields.io/badge/note-ubishin-41C9B4?style=flat-square" alt="note" />
+  </a>
+</p>
+
 </div>
 
 
