@@ -49,7 +49,7 @@ I love blending creativity with technology — and this page is a little showcas
     alt="GitHub Stats"
     width="55%" style="vertical-align:top;">
   <!-- 右：3D Contrib -->
-  <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph"
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph"
        width="40%" style="vertical-align:top;">
 </div>
 
