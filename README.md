@@ -1,97 +1,102 @@
-<!-- ────────────── Hero / Banner ────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Shintaro%20Niwamoto&fontSize=40&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descAlign=50" alt="header banner"/>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
-<p align="center">
-  <a href="https://github.com/shin1300">
-    <img src="https://img.shields.io/github/followers/shin1300?label=Follow&style=social" alt="followers"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+</div>
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
 
-## 👋 About Me
-- Shintaro Niwamoto（庭本 眞太郎）  
-- C/C++/C# など低レイヤから、Python の機械学習・生成モデルまで扱います。  
-- Android（Java / Unity）でのアプリ開発経験あり。  
-- ものを**作って動かす**のが好き。最近は ML × アプリの融合に興味。
+## 🌟 **About Me**
 
-### 🔭 Interests
-- Generative AI / ML 基盤  
-- モバイル × AI（センサーデータ活用）  
-- パフォーマンス最適化、データ構造・メモリ管理
+<div align="center">
 
----
+<table>
+<tr>
+<td width="200" align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
+<br><strong>Flutter</strong>
+</td>
+<td width="400" align="left">
 
-## 🧠 Languages
-<p align="center">
-  <!-- 1段目：3つ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" alt="C#">
-</p>
-<p align="center">
-  <!-- 2段目：3つ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python">
-</p>
-<p align="center">
-  <!-- 3段目：2つ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3">
-</p>
+### 👋 **Hi, I'm User!**
+🚀 **Flutter Developer** passionate about mobile development  
 
-<details>
-<summary><b>Experience detail</b></summary>
+🌍 **Location:** Japan 🇯🇵  
+💼 **Focus:** Building beautiful mobile applications  
+☕ **Powered by:** Coffee and curiosity  
+🎯 **Goal:** Creating amazing user experiences  
 
-- **C#（1年）**：Unity／Androidで「スキャン物体を積み上げる」動物タワーバトル風アプリ  
-- **C++（半年）**：AtCoder B 問題レベル  
-- **C（3年）**：`malloc`/構造体/ポインタでデータ構造実装  
-- **Java（1年）**：スマホ内センサ連動の状態変化アプリ  
-- **JavaScript / HTML / CSS（各1年）**：Web基礎  
-- **Python（2年）**：機械学習全般・生成モデル
-</details>
+</td>
+</tr>
+</table>
 
----
+</div>
 
-## 🚀 Featured Projects
-- **Unity Stacking Game (Android)** — 物体スキャン×物理積み上げ  
-  `Unity / C# / Android`  
-  👉 リポジトリ: `https://github.com/shin1300/REPO_NAME_1`
+## 📊 **GitHub Analytics**
 
-- **Sensor-based Android App** — センサ値で状態遷移  
-  `Java / Android`  
-  👉 リポジトリ: `https://github.com/shin1300/REPO_NAME_2`
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+</div>
 
-- **Generative Model Sandbox** — 生成モデルの実験ノート  
-  `Python / PyTorch`  
-  👉 リポジトリ: `https://github.com/shin1300/REPO_NAME_3`
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
 
-> 🔁 上のリンクは自分のリポジトリに置き換えてください。
+## 🛠️ **Tech Stack**
 
----
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
 
-## 📊 Status
-<!-- 横並びにせず、一般的な縦並びで安定表示 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&theme=tokyonight"
-       alt="GitHub stats" width="100%">
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shin1300&theme=tokyonight"
-       alt="GitHub Streak" width="100%">
-</p>
+### 📱  **Mobile Development**
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
----
+### ☁️  **Backend as a Service (BaaS)**
+<img src="https://skillicons.dev/icons?i=supabase,firebase" />
 
-## 🌐 Links
-- Portfolio / Profile: https://github.com/shin1300  
-- X (Twitter): https://twitter.com/your_twitter_id  
-- Mail: shintaro.niwamoto [at] ubi-lab.com
+### 🔧  **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 
-<!-- ────────────── Footer wave ────────────── -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer" alt="footer wave"/>
-</p>
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🗄️  **Database**
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+
+### 🎨  **Design**
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+
+### 💻  **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+
+</td>
+</tr>
+</table>
+
+## 🏆 **GitHub Trophies (Commits)**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+</div>
+
+## 💭 **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  
+  **⭐ From [user](https://github.com/user) with ❤️**
+  
+  *"Flutter makes everything beautiful! 🦋"*
+</div>
