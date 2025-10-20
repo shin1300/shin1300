@@ -47,10 +47,10 @@ I love blending creativity with technology — and this page is a little showcas
   <img
     src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
     alt="GitHub Stats"
-    width="55%" style="vertical-align:top;">
+    width="50%" style="vertical-align:top;">
   <!-- 右：3D Contrib -->
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph"
-       width="40%" style="vertical-align:top;">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"
+       width="48%" style="vertical-align:top;">
 </div>
 
 
