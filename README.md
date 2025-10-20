@@ -9,7 +9,7 @@
     <!-- ============ LEFT: STATUS ============ -->
     <td width="50%" valign="top">
 
-      <h2>📊 Status</h2>
+      <h2 align="left">📊 Status</h2>
 
       <!-- GitHub Stats -->
       <img
@@ -35,7 +35,7 @@
 
       <h2>🧠 Languages</h2>
 
-      <table>
+      <table align="center">
         <tr>
           <td align="center" width="90">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" alt="C"/><br/><sub>C</sub>
