@@ -9,55 +9,87 @@
   </a>
 </p>
 
-<!-- もしこの水平線が不要なら下の行（hr）を削除 -->
-<hr style="border:none; height:0; margin:0;">
+---
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border:0; border-collapse:collapse;">
-  <tr>
-    <!-- ============ LEFT: STATUS ============ -->
-    <td width="50%" valign="top" align="center" style="border:0; padding:0 12px;">
+## 👋 About Me
+- Shintaro Niwamoto（庭本 眞太郎）  
+- C/C++/C# など低レイヤから、Python の機械学習・生成モデルまで扱います。  
+- Android（Java / Unity）でのアプリ開発経験あり。  
+- ものを**作って動かす**のが好き。最近は ML × アプリの融合に興味。
 
-      <h2 style="margin:0 0 12px; text-align:center;">📊 Status</h2>
+### 🔭 Interests
+- Generative AI / ML 基盤  
+- モバイル × AI（センサーデータ活用）  
+- パフォーマンス最適化、データ構造・メモリ管理
 
-      <p style="margin:0 0 12px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&theme=tokyonight"
-             alt="Shintaro's GitHub stats" width="100%" loading="lazy">
-      </p>
-      <p style="margin:0;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=shin1300&theme=tokyonight"
-             alt="GitHub Streak" width="100%" loading="lazy">
-      </p>
+---
 
-    </td>
+## 🧠 Languages
+<p align="center">
+  <!-- 1段目：3つ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" alt="C#">
+</p>
+<p align="center">
+  <!-- 2段目：3つ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python">
+</p>
+<p align="center">
+  <!-- 3段目：2つ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3">
+</p>
 
-    <!-- ============ RIGHT: LANGUAGES ============ -->
-    <td width="50%" valign="top" align="center" style="border:0; padding:0 12px;">
+<details>
+<summary><b>Experience detail</b></summary>
 
-      <h2 style="margin:0 0 12px; text-align:center;">🧠 Languages</h2>
+- **C#（1年）**：Unity／Androidで「スキャン物体を積み上げる」動物タワーバトル風アプリ  
+- **C++（半年）**：AtCoder B 問題レベル  
+- **C（3年）**：`malloc`/構造体/ポインタでデータ構造実装  
+- **Java（1年）**：スマホ内センサ連動の状態変化アプリ  
+- **JavaScript / HTML / CSS（各1年）**：Web基礎  
+- **Python（2年）**：機械学習全般・生成モデル
+</details>
 
-      <!-- 1行目：3つ -->
-      <p style="margin:0 0 8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" alt="C" loading="lazy">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" loading="lazy">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" alt="C#" loading="lazy">
-      </p>
+---
 
-      <!-- 2行目：3つ -->
-      <p style="margin:0 0 8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" loading="lazy">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" loading="lazy">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" loading="lazy">
-      </p>
+## 🚀 Featured Projects
+- **Unity Stacking Game (Android)** — 物体スキャン×物理積み上げ  
+  `Unity / C# / Android`  
+  👉 リポジトリ: `https://github.com/shin1300/REPO_NAME_1`
 
-      <!-- 3行目：2つ -->
-      <p style="margin:0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" loading="lazy">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3" loading="lazy">
-      </p>
+- **Sensor-based Android App** — センサ値で状態遷移  
+  `Java / Android`  
+  👉 リポジトリ: `https://github.com/shin1300/REPO_NAME_2`
 
-    </td>
-  </tr>
-</table>
+- **Generative Model Sandbox** — 生成モデルの実験ノート  
+  `Python / PyTorch`  
+  👉 リポジトリ: `https://github.com/shin1300/REPO_NAME_3`
+
+> 🔁 上のリンクは自分のリポジトリに置き換えてください。
+
+---
+
+## 📊 Status
+<!-- 横並びにせず、一般的な縦並びで安定表示 -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&theme=tokyonight"
+       alt="GitHub stats" width="100%">
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shin1300&theme=tokyonight"
+       alt="GitHub Streak" width="100%">
+</p>
+
+---
+
+## 🌐 Links
+- Portfolio / Profile: https://github.com/shin1300  
+- X (Twitter): https://twitter.com/your_twitter_id  
+- Mail: shintaro.niwamoto [at] ubi-lab.com
 
 <!-- ────────────── Footer wave ────────────── -->
 <p align="center">
