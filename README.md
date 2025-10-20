@@ -19,35 +19,25 @@
 <!-- Tech Stack -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
+<div align="center">
 
-### 🧩 **Systems / Android**
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,unity" />
+  <!-- Systems / Android -->
+  <h3>🧩 <b>Systems / Android</b></h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,unity" />
 
-### 🤖 **ML / Generative**
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <!-- ML / Generative -->
+  <h3>🤖 <b>ML / Generative</b></h3>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 
-### 🔧 **Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
+  <!-- Tools -->
+  <h3>🔧 <b>Tools</b></h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
 
-</td>
-<td width="50%" align="center" valign="top">
+  <!-- Web Basics（Toolsの下へ移動） -->
+  <h3>💻 <b>Web Basics</b></h3>
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
 
-### 💻 **Web Basics**
-<img src="https://skillicons.dev/icons?i=js,html,css" />
-
-### 🗒️ **Notes**
-- C（3年）：`malloc`/構造体/ポインタでデータ構造実装  
-- C++（半年）：AtCoder B 問題レベル  
-- C#（1年）：Unity×Android（スキャン物体の積み上げゲーム）  
-- Java（1年）：センサ値で状態遷移する Android アプリ  
-- Python（2年）：機械学習・生成モデル
-
-</td>
-</tr>
-</table>
+</div>
 
 <!-- GitHub Analytics -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
