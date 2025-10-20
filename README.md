@@ -43,13 +43,19 @@ I love blending creativity with technology — and this page is a little showcas
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
+
+  <!-- 左：3D Contrib（あなたの出力名に合わせて差し替え） -->
+  <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph" width="54%">
+
+  <!-- 右：GitHub Readme Stats（透明背景＆枠なし） -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+    width="44%"
+  >
+
 </div>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="49%" alt="3D Contribution Graph (gitblock)">
-  <img src="./profile-3d-contrib/profile-green.svg" width="49%" alt="3D Contribution Graph (green)">
-</p>
 
 <!-- Contact -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact**
@@ -58,7 +64,7 @@ Feel free to reach out or connect through any of the platforms below👇
 
 <div align="center">
   ✉️ **Mail:** shintaro.niwamoto@ubi-lab.com  
-  🐦 **X (Twitter):** None  
+  🐦 **X (Twitter):** ubishin130  
   🧮 **AtCoder:** ubishin  
   🧠 **Kaggle:** shinta120  
   📝 **Qiita:** shin1300  
