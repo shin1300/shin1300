@@ -56,7 +56,6 @@
 
   **⭐ From [shin1300](https://github.com/shin1300) with ❤️**
 
-  <sub>Emoji assets: Microsoft Fluent Emoji (MIT), via Animated Fluent Emojis.</sub>
 
 <!--
 Third-party assets used (all MIT):
