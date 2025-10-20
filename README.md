@@ -82,10 +82,10 @@ Feel free to reach out or connect through any of the platforms below👇
 <!-- Contact & Profiles -->
 <p>
   <a href="mailto:shintaro.niwamoto@ubi-lab.com">
-    <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" />
   </a><br/>
   <a href="https://x.com/ubishin130">
-    <img src="https://img.shields.io/badge/X-ubishin130-333?style=flat-square&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-ubishin130-333?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
   </a><br/>
   <a href="https://atcoder.jp/users/ubishin">
     <img src="https://img.shields.io/badge/AtCoder-ubishin-333?style=flat-square" alt="AtCoder" />
