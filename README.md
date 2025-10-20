@@ -22,7 +22,8 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
 </div>
 
-## 🛠️ **Tech Stack**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
+
 
 <table align="center">
 <tr>
