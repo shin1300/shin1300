@@ -80,8 +80,6 @@ I love blending creativity with technology — and this page is a little showcas
 Feel free to reach out or connect through any of the platforms below👇  
 
 <!-- Contact & Profiles -->
-<div align="center">
-
 <p>
   <a href="mailto:shintaro.niwamoto@ubi-lab.com">
     <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -106,7 +104,7 @@ Feel free to reach out or connect through any of the platforms below👇
   </a>
 </p>
 
-</div>
+
 
 
 <!-- Footer -->
