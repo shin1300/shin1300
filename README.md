@@ -18,8 +18,16 @@ I love blending creativity with technology — and this page is a little showcas
 
 <!-- Tech Stack -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
+## Shintaro’s Tech Stack Trio
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&theme=github_dark&lineCount=7&line1=c,C,auto;cplusplus,C%2B%2B,auto;csharp,C%23,auto;java,Java,auto;python,Python,auto;javascript,JavaScript,auto&line2=scikitlearn,scikit-learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto;unity,Unity,auto;blender,Blender,auto&line3=visualstudiocode,VS%20Code,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto&line4=postgresql,PostgreSQL,auto&line5=html5,HTML5,auto;css3,CSS3,auto&line6=githubcopilot,GitHub%20Copilot,auto;anthropic,Claude,auto;openai,Codex,auto&line7=nvidia,NVIDIA,auto)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&theme=github_dark&lineCount=7&line1=c,C,auto;cplusplus,C%2B%2B,auto;csharp,C%23,auto;java,Java,auto;python,Python,auto;javascript,JavaScript,auto&line2=scikitlearn,scikit-learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto;unity,Unity,auto;blender,Blender,auto&line3=visualstudiocode,VS%20Code,auto;git,Git,auto;github,GitHub,auto;docker,Docker,auto&line4=postgresql,PostgreSQL,auto&line5=html5,HTML5,auto;css3,CSS3,auto&line6=githubcopilot,GitHub%20Copilot,auto;anthropic,Claude,auto;openai,Codex,auto&line7=nvidia,NVIDIA,auto)
+### 基盤言語 & DB
+![Languages & DB](https://github-readme-tech-stack.vercel.app/api/cards?title=Languages%20%26%20DB&lineCount=3&line1=Python,JavaScript,Java&line2=C,Cplusplus,Csharp&line3=HTML5,CSS3,PostgreSQL)
+
+### AI / グラフィクス
+![AI / Graphics](https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20%2F%20Graphics&lineCount=2&line1=Scikitlearn,Tensorflow,Pytorch&line2=Unity,Blender)
+
+### 開発・運用ツール / アシスタント / Compute
+![DevOps / Assistants / Compute](https://github-readme-tech-stack.vercel.app/api/cards?title=DevOps%20%2F%20Assistants%20%2F%20Compute&lineCount=3&line1=Visualstudiocode,Git,Github&line2=Docker,Githubcopilot,Anthropic&line3=Openai,Nvidia)
 
 <!-- GitHub Analytics -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
@@ -42,29 +50,43 @@ I love blending creativity with technology — and this page is a little showcas
 Feel free to reach out or connect through any of the platforms below👇  
 
 <!-- Contact & Profiles -->
-<p>
-  <a href="mailto:shintaro.niwamoto@ubi-lab.com">
-    <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" />
-  </a><br/>
-  <a href="https://x.com/ubishin130">
-    <img src="https://img.shields.io/badge/X-ubishin130-333?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
-  </a><br/>
-  <a href="https://atcoder.jp/users/ubishin">
-    <img src="https://img.shields.io/badge/AtCoder-ubishin-333?style=flat-square" alt="AtCoder" />
-  </a><br/>
-  <a href="https://www.kaggle.com/shinta120">
-    <img src="https://img.shields.io/badge/Kaggle-shinta120-333?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a><br/>
-  <a href="https://qiita.com/shin1300">
-    <img src="https://img.shields.io/badge/Qiita-shin1300-333?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
-  </a><br/>
-  <a href="https://zenn.dev/ubishin">
-    <img src="https://img.shields.io/badge/Zenn-ubishin-333?style=flat-square" alt="Zenn" />
-  </a><br/>
-  <a href="https://note.com/ubishin">
-    <img src="https://img.shields.io/badge/note-ubishin-333?style=flat-square" alt="note" />
-  </a>
-</p>
+<ul>
+  <li>
+    <a href="mailto:shintaro.niwamoto@ubi-lab.com">
+      <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+  </li>
+  <li>
+    <a href="https://x.com/ubishin130">
+      <img src="https://img.shields.io/badge/X-ubishin130-333?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+  </li>
+  <li>
+    <a href="https://atcoder.jp/users/ubishin">
+      <img src="https://img.shields.io/badge/AtCoder-ubishin-333?style=flat-square" alt="AtCoder" />
+    </a>
+  </li>
+  <li>
+    <a href="https://www.kaggle.com/shinta120">
+      <img src="https://img.shields.io/badge/Kaggle-shinta120-333?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+  </li>
+  <li>
+    <a href="https://qiita.com/shin1300">
+      <img src="https://img.shields.io/badge/Qiita-shin1300-333?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+    </a>
+  </li>
+  <li>
+    <a href="https://zenn.dev/ubishin">
+      <img src="https://img.shields.io/badge/Zenn-ubishin-333?style=flat-square" alt="Zenn" />
+    </a>
+  </li>
+  <li>
+    <a href="https://note.com/ubishin">
+      <img src="https://img.shields.io/badge/note-ubishin-333?style=flat-square" alt="note" />
+    </a>
+  </li>
+</ul>
 
 
 
