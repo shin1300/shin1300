@@ -3,7 +3,7 @@
 
 <!-- Typograssy -->
 <img  error message is the one that never shows up.
-  src="https://typograssy.deno.dev/api?text=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&bg=none&frame=none&comment="
+  src="https://typograssy.deno.dev/api?text=The%20best%20error%15message%20is%20the%20one%20that%20never%20shows%20up&bg=none&frame=none&comment="
   width="100%"
   alt="typograssy"
 />
@@ -90,14 +90,6 @@ Feel free to reach out — just **tap** the links below 👇
   </li>
 </ul>
 
-
-
-
-
-<!-- Footer -->
-<div align="center">
-  **⭐ From [shin1300](https://github.com/shin1300) with ❤️**
-</div>
 
 <!--
 Third-party assets used (all MIT):
