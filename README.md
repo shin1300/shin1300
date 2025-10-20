@@ -3,7 +3,7 @@
 
 <!-- Typograssy -->
 <img
-  src="https://typograssy.deno.dev/api?text=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&bg=none&frame=none&comment="
+  src="https://typograssy.deno.dev/api?text=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up%20&bg=none&frame=none&comment="
   width="100%"
   alt="The best error message is the one that never shows up."
 />
