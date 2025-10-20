@@ -82,32 +82,27 @@ Feel free to reach out or connect through any of the platforms below👇
 <!-- Contact & Profiles -->
 <div align="center">
 
-## 📇 Contact & Profiles
-
-<!-- Contact & Profiles -->
-### 📇 Contact & Profiles
-
 <p>
   <a href="mailto:shintaro.niwamoto@ubi-lab.com">
     <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a><br/>
   <a href="https://x.com/ubishin130">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-ubishin130-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-ubishin130-333?style=flat-square&logo=x&logoColor=white" alt="X" />
   </a><br/>
   <a href="https://atcoder.jp/users/ubishin">
-    <img src="https://img.shields.io/badge/AtCoder-ubishin-2C2C2C?style=flat-square" alt="AtCoder" />
+    <img src="https://img.shields.io/badge/AtCoder-ubishin-333?style=flat-square" alt="AtCoder" />
   </a><br/>
   <a href="https://www.kaggle.com/shinta120">
-    <img src="https://img.shields.io/badge/Kaggle-shinta120-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-shinta120-333?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a><br/>
   <a href="https://qiita.com/shin1300">
-    <img src="https://img.shields.io/badge/Qiita-shin1300-55C500?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+    <img src="https://img.shields.io/badge/Qiita-shin1300-333?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
   </a><br/>
   <a href="https://zenn.dev/ubishin">
-    <img src="https://img.shields.io/badge/Zenn-ubishin-3EA8FF?style=flat-square" alt="Zenn" />
+    <img src="https://img.shields.io/badge/Zenn-ubishin-333?style=flat-square" alt="Zenn" />
   </a><br/>
   <a href="https://note.com/ubishin">
-    <img src="https://img.shields.io/badge/note-ubishin-41C9B4?style=flat-square" alt="note" />
+    <img src="https://img.shields.io/badge/note-ubishin-333?style=flat-square" alt="note" />
   </a>
 </p>
 
