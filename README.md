@@ -46,11 +46,6 @@ I love blending creativity with technology — and this page is a little showcas
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%">
 </div>
 
-<!-- 3D Contributions (auto-updated by Actions) -->
-<p align="center">
-  <!-- 夜テーマ（おすすめ） -->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph (night-rainbow)">
-</p>
 
 <!-- 他テーマを並べたいとき（必要なら有効化）
 <p align="center">
