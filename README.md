@@ -25,6 +25,7 @@ Here’s the **tech stack** I use in my daily research and development.
 
 [![Data & ML](https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20%26%20ML&align=center&lineCount=3&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto&line3=matplotlib,Matplotlib,auto;seaborn,Seaborn,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
+
 [![DevTools & Environment](https://github-readme-tech-stack.vercel.app/api/cards?title=DevTools%20%26%20Environment&align=center&lineCount=2&line1=git,Git,auto;docker,Docker,auto&line2=anaconda,Conda,auto;uv,uv,auto;nvidia,NVIDIA,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
 [![AI Assistants](https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20Assistants&align=center&lineCount=1&line1=githubcopilot,GitHub%20Copilot,auto;claude,Claude,auto;openai,Codex,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
