@@ -1,3 +1,16 @@
+<!-- ────────────── Hero / Banner ────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Shintaro%20Niwamoto&fontSize=40&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descAlign=50" alt="header banner"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shin1300">
+    <img src="https://img.shields.io/github/followers/shin1300?label=Follow&style=social" alt="followers"/>
+  </a>
+</p>
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -34,3 +47,9 @@
 </td>
 </tr>
 </table>
+
+
+<!-- ────────────── Footer wave ────────────── -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer" alt="footer wave"/>
+</p>
