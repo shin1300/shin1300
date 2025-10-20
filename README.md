@@ -44,44 +44,74 @@ I love blending creativity with technology — and this page is a little showcas
 
 Feel free to reach out or connect through any of the platforms below👇  
 
+<!-- Iconify（CDN） -->
+<script src="https://code.iconify.design/3/3.1.1/iconify.min.js"></script>
+
 <!-- Contact & Profiles -->
-<ul>
+<ul class="links">
   <li>
     <a href="mailto:shintaro.niwamoto@ubi-lab.com">
-      <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" />
+      <span class="iconify" data-icon="mdi:email-outline"></span>
+      Email
     </a>
   </li>
   <li>
     <a href="https://x.com/ubishin130">
-      <img src="https://img.shields.io/badge/X-ubishin130-333?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+      <span class="iconify" data-icon="simple-icons:x"></span>
+      X（Twitter）
     </a>
   </li>
   <li>
     <a href="https://atcoder.jp/users/ubishin">
-      <img src="https://img.shields.io/badge/AtCoder-ubishin-333?style=flat-square" alt="AtCoder" />
+      <span class="iconify" data-icon="simple-icons:atcoder"></span>
+      AtCoder
     </a>
   </li>
   <li>
     <a href="https://www.kaggle.com/shinta120">
-      <img src="https://img.shields.io/badge/Kaggle-shinta120-333?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+      <span class="iconify" data-icon="simple-icons:kaggle"></span>
+      Kaggle
     </a>
   </li>
   <li>
     <a href="https://qiita.com/shin1300">
-      <img src="https://img.shields.io/badge/Qiita-shin1300-333?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+      <span class="iconify" data-icon="simple-icons:qiita"></span>
+      Qiita
     </a>
   </li>
   <li>
     <a href="https://zenn.dev/ubishin">
-      <img src="https://img.shields.io/badge/Zenn-ubishin-333?style=flat-square" alt="Zenn" />
+      <span class="iconify" data-icon="simple-icons:zenn"></span>
+      Zenn
     </a>
   </li>
   <li>
     <a href="https://note.com/ubishin">
-      <img src="https://img.shields.io/badge/note-ubishin-333?style=flat-square" alt="note" />
+      <span class="iconify" data-icon="simple-icons:note"></span>
+      note
     </a>
   </li>
 </ul>
+
+<style>
+  .links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .links li { margin: 6px 0; }
+  .links a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: inherit;
+  }
+  .links .iconify {
+    font-size: 18px;   /* ここで全アイコンの大きさを統一 */
+    line-height: 1;
+  }
+</style>
 
 
 
