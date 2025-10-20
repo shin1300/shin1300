@@ -18,8 +18,8 @@ I love blending creativity with technology — and this page is a little showcas
 
 <!-- Tech Stack -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
-## Shintaro’s Tech Stack Trio
-[![Languages & Platforms](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A9%20Languages%20%26%20Platforms&align=center&lineCount=3&line1=c,C,auto;cplusplus,C%2B%2B,auto;csharp,C%23,auto;kotlin,Kotlin,auto&line2=python,Python,auto;javascript,JavaScript,auto;typescript,TypeScript,auto;html5,HTML5,auto&line3=css3,CSS3,auto;unity,Unity,auto;blender,Blender,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+
+[![Languages & Platforms](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A9%20Languages%20%26%20Platforms&align=center&lineCount=2&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 [![Data & ML](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A7%A0%20Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 [![DevTools & Environment](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%9B%A0%EF%B8%8F%20DevTools%20%26%20Environment&align=center&lineCount=2&line1=git,Git,auto;docker,Docker,auto&line2=anaconda,Conda,auto;uv,uv,auto;nvidia,NVIDIA,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 [![AI Assistants](https://github-readme-tech-stack.vercel.app/api/cards?title=%F0%9F%A4%9D%20AI%20Assistants&align=center&lineCount=1&line1=githubcopilot,GitHub%20Copilot,auto;claude,Claude,auto;openai,Codex,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
