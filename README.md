@@ -21,7 +21,7 @@ I love exploring new technologies. One of my favorite quotes is:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
 Here’s the **tech stack** I use in my daily research and development.
 
-[![Languages & Platforms](https://github-readme-tech-stack.vercel.app/api/cards?title=Languages%20%26%20Platforms&align=center&lineCount=2&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto;raspberrypi,Raspberry%20Pi,auto;arduino,Arduino,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+[![Languages & Platforms](https://github-readme-tech-stack.vercel.app/api/cards?title=Languages%20%26%20Platforms&align=center&lineCount=3&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto&line3=raspberrypi,Raspberry%20Pi,auto;arduino,Arduino,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
 [![Data & ML](https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
