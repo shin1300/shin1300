@@ -1,12 +1,10 @@
-<!-- 背景画像 -->
-<img src="./assets/background.png" width="100%" alt="Background">
+<div style="position: relative; display: inline-block; width: 100%;">
+  <img src="./assets/background.png" width="100%" alt="Background">
+  <img src="https://typograssy.deno.dev/api?text=Shintaro%20Niwamoto%20&bg=none&frame=none&comment="
+       style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"
+       width="80%" alt="typograssy">
+</div>
 
-<!-- Typograssy -->
-<img
-  src="https://typograssy.deno.dev/api?text=Niwamoto%20Shintaro%20&bg=none&frame=none&comment="
-  width="100%"
-  alt="typograssy"
-/>
 
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Hi, I'm Shintaro Niwamoto!**
