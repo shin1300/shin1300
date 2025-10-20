@@ -2,26 +2,25 @@
 <img src="assets/background.JPG" alt="sunrise" width="100%" />
 
 <!-- Typograssy -->
-<img  error message is the one that never shows up.
-  src="https://typograssy.deno.dev/api?text=The%20best%20error%15message%20is%20the%20one%20that%20never%20shows%20up&bg=none&frame=none&comment="
+<img
+  src="https://typograssy.deno.dev/api?text=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&bg=none&frame=none&comment="
   width="100%"
-  alt="typograssy"
+  alt="The best error message is the one that never shows up."
 />
-
-
 
 <!-- About Me -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **About Me**
 Hi, I'm **Shintaro Niwamoto**, a first-year master's student at **Nara Institute of Science and Technology (NAIST)**.  
-I work on **ubiquitous computing**, designing and implementing systems that seamlessly blend into the real world.  
+I work in **ubiquitous computing**, designing and implementing systems that seamlessly integrate with the real world.  
 My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**.  
-I love exploring new technologies, and one of my favorite quotes is:  
+I love exploring new technologies. One of my favorite quotes is:  
 > “**The best error message is the one that never shows up.**”  
 (You’ll also find it flowing through my Typograssy banner!)
 
 <!-- Tech Stack -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
-Here’s the stack I use in my daily research and development.
+Here’s the **tech stack** I use in my daily research and development.
+
 [![Languages & Platforms](https://github-readme-tech-stack.vercel.app/api/cards?title=Languages%20%26%20Platforms&align=center&lineCount=2&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
 [![Data & ML](https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
@@ -30,29 +29,29 @@ Here’s the stack I use in my daily research and development.
 
 [![AI Assistants](https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20Assistants&align=center&lineCount=1&line1=githubcopilot,GitHub%20Copilot,auto;claude,Claude,auto;openai,Codex,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
 
-
 <!-- GitHub Analytics -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
 A snapshot of my activity.  
-Feel free to explore my repositories and recent commits!
+Feel free to explore **the repositories** and recent commits!
+
 <div align="center">
-  <!-- 左：GitHub Readme Stats -->
+  <!-- GitHub Readme Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
     alt="GitHub Stats"
     width="55%" style="vertical-align:top;">
-  <!-- 右：3D Contrib -->
+  <!-- 3D Contrib -->
   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"
        width="40%" style="vertical-align:top;">
 </div>
-
 
 <!-- Contact -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact & Profiles**
 
 Questions, ideas, or just want to chat?  
-Feel free to reach out — just **tap** the links below 👇
-<ul>
+Feel free to reach out — just **tap the links below** 👇
+
+<ul style="list-style:none; padding-left:0;">
   <li>
     <a href="mailto:shintaro.niwamoto@ubi-lab.com">
       <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" />
@@ -90,6 +89,9 @@ Feel free to reach out — just **tap** the links below 👇
   </li>
 </ul>
 
+---
+
+> © 2025 Shintaro Niwamoto — MIT License for third-party assets listed below.
 
 <!--
 Third-party assets used (all MIT):
