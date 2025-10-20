@@ -11,13 +11,12 @@
 
 ---
 
-<!-- 👇 このブロックをそのまま貼る（前後に ``` は付けない） -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:0;">
+<!-- == Two-column layout: LEFT Status / RIGHT Languages == -->
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- ============ LEFT: STATUS ============ -->
-    <td width="50%" valign="top" style="border:0; padding-right:12px;">
+    <!-- ===== LEFT: STATUS ===== -->
+    <td width="50%" valign="top" style="padding-right:12px;">
 
-      <!-- h2は下線が出るのでh3を使用、余白はstyleで調整 -->
       <h3 style="margin:0 0 12px 0;">📊 Status</h3>
 
       <p style="margin:0 0 12px 0;">
@@ -25,6 +24,7 @@
           src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&theme=tokyonight"
           alt="Shintaro's GitHub stats" width="100%">
       </p>
+
       <p style="margin:0;">
         <img
           src="https://github-readme-streak-stats.herokuapp.com?user=shin1300&theme=tokyonight"
@@ -33,29 +33,30 @@
 
     </td>
 
-    <!-- ============ RIGHT: LANGUAGES ============ -->
-    <td width="50%" valign="top" align="center" style="border:0; padding-left:12px;">
+    <!-- ===== RIGHT: LANGUAGES ===== -->
+    <td width="50%" valign="top" align="center" style="padding-left:12px;">
 
       <h3 style="margin:0 0 12px 0;">🧠 Languages</h3>
 
-      <!-- 1段目 -->
+      <!-- 行1 -->
       <p style="margin:0 0 8px 0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" alt="C">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" alt="C++">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44" alt="C#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" alt="Java">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="46" alt="C">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="46" alt="C++">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="46" alt="C#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="46" alt="Java">
       </p>
-      <!-- 2段目 -->
+      <!-- 行2 -->
       <p style="margin:0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" alt="JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" alt="Python">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" alt="HTML5">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" alt="CSS3">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="46" alt="JavaScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" alt="Python">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="46" alt="HTML5">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="46" alt="CSS3">
       </p>
 
     </td>
   </tr>
 </table>
+
 
 
 
