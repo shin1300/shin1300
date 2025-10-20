@@ -57,4 +57,11 @@
   **⭐ From [shin1300](https://github.com/shin1300) with ❤️**
 
   <sub>Emoji assets: Microsoft Fluent Emoji (MIT), via Animated Fluent Emojis.</sub>
-</div>
+
+<!--
+Third-party assets used (all MIT):
+- GitHub Profile 3D Contrib — https://github.com/yoshi389111/github-profile-3d-contrib
+- Capsule Render — https://github.com/kyechan99/capsule-render
+- Readme Typing SVG — https://github.com/DenverCoder1/readme-typing-svg
+- Microsoft Fluent Emoji (Animated) — https://github.com/microsoft/fluentui-emoji
+-->
