@@ -37,8 +37,8 @@ Feel free to explore **the repositories** and recent commits!
 <div align="center">
   <!-- GitHub Readme Stats -->
 <img
-  src="https://streak-stats.demolab.com/?user=shin1300&hide_border=true&theme=transparent"
-  alt="GitHub Streak"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
+  alt="GitHub Stats (summary-cards)"
   width="55%" style="vertical-align:top;">
 
   <!-- 3D Contrib -->
