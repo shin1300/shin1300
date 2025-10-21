@@ -57,19 +57,20 @@ A snapshot of my activity.
 Feel free to explore **the repositories** and recent commits!
 
 
-<div align="center" style="display:block; font-size:0;">
-  <span style="display:inline-block; width:49%; vertical-align:top;">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
-      alt="GitHub Stats (summary-cards)" style="width:100%; height:auto;">
-  </span>
+<p align="center">
+  <!-- 左：Stats（枠なし） -->
+  <img
+    align="left" width="43%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
+    alt="GitHub Stats (summary-cards)">
 
-  <span style="display:inline-block; width:49%; vertical-align:top;">
-    <img
-      src="./profile-3d-contrib/profile-gitblock.svg"
-      alt="3D Contribution Graph" style="width:100%; height:auto;">
-  </span>
-</div>
+  <!-- 右：3D Contrib（枠なし） -->
+  <img
+    align="right" width="43%"
+    src="./profile-3d-contrib/profile-gitblock.svg"
+    alt="3D Contribution Graph">
+</p>
+<br clear="both"/>
 
 <!-- Contact -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact & Profiles**
