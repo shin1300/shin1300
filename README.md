@@ -36,10 +36,10 @@ Feel free to explore **the repositories** and recent commits!
 
 <div align="center">
   <!-- GitHub Readme Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shin1300&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-    width="55%" style="vertical-align:top;">
+<img
+  src="https://github-profile-trophy.vercel.app/?username=shin1300&theme=flat&no-frame=true&column=4"
+  alt="GitHub Trophies"
+  width="55%" style="vertical-align:top;">
   <!-- 3D Contrib -->
   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"
        width="40%" style="vertical-align:top;">
