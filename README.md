@@ -34,21 +34,20 @@ Here’s the **tech stack** I use in my daily research and development.
 A snapshot of my activity.  
 Feel free to explore **the repositories** and recent commits!
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <!-- Stats -->
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
-        alt="GitHub Stats (summary-cards)" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <!-- Contrib -->
-      <img src="./profile-3d-contrib/profile-gitblock.svg"
-           alt="3D Contribution Graph" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- 左：Stats（枠なし） -->
+  <img
+    align="left" width="53%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
+    alt="GitHub Stats (summary-cards)">
+
+  <!-- 右：3D Contrib（枠なし） -->
+  <img
+    align="right" width="43%"
+    src="./profile-3d-contrib/profile-gitblock.svg"
+    alt="3D Contribution Graph">
+</p>
+<br clear="both"/>
 
 <!-- Contact -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact & Profiles**
