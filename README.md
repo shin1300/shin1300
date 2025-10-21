@@ -37,13 +37,13 @@ Feel free to explore **the repositories** and recent commits!
 <p align="center">
   <!-- 左：Stats（枠なし） -->
   <img
-    align="left" width="53%"
+    align="left" width="48%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
     alt="GitHub Stats (summary-cards)">
 
   <!-- 右：3D Contrib（枠なし） -->
   <img
-    align="right" width="43%"
+    align="right" width="48%"
     src="./profile-3d-contrib/profile-gitblock.svg"
     alt="3D Contribution Graph">
 </p>
