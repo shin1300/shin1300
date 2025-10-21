@@ -5,9 +5,12 @@ on:
     - cron: "0 18 * * *"   # JST 03:00
   workflow_dispatch:
 
-# ワークフローにも書き込み権限を明示
 permissions:
   contents: write
+
+concurrency:
+  group: profile-3d
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -18,17 +21,24 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Pull (rebase) latest main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git pull --rebase origin main
+
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: shin1300   # あなたのユーザー名
+          USERNAME: shin1300
 
-      # ← ココが重要：生成物をコミット＆プッシュ
       - name: Commit & Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
           git add -A .
-          if git commit -m "generated 3d profile contributions"; then
-            git push
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
           fi
+          git commit -m "generated 3d profile contributions"
+          git push origin HEAD:main
