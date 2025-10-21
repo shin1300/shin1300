@@ -59,7 +59,7 @@ Feel free to explore **the repositories** and recent commits!
 
 <p align="center">
   <img
-    align="left" width="44%"
+    align="left" width="43%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
     alt="GitHub Stats (summary-cards)">
 
