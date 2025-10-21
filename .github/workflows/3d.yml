@@ -2,12 +2,11 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"  
+    - cron: "0 18 * * *"   # JST 03:00
   workflow_dispatch:
 
 permissions:
-  contents: write         
-  pull-requests: write    
+  contents: write
 
 concurrency:
   group: profile-3d
@@ -20,37 +19,49 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
-          fetch-depth: 0
-          ref: main                
+          fetch-depth: 0        # rebaseに必要
+          ref: main             # 常にmainで実行（必要なら変更）
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: shin1300
 
-      - name: Check diff
-        id: diff
+      - name: Commit & Rebase & Push (with retry)
         run: |
-          if git diff --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
+          set -euo pipefail
+          set -x
 
-      - name: Create Pull Request
-        if: steps.diff.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "generated 3d profile contributions"
-          title: "chore(profile-3d): update generated SVGs"
-          body: |
-            Automated update of profile 3D contribution SVGs.
-            - Trigger: ${{ github.event_name }}
-            - Commit: ${{ github.sha }}
-          branch: chore/profile-3d/update-${{ github.run_id }}
-          base: main
-          labels: |
-            automated
-            profile-3d
-          delete-branch: true   
+          # gitの安全設定（稀に所有者警告が出る環境向け）
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          # 変更があるときだけコミット
+          git add -A .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "generated 3d profile contributions"
+
+          BRANCH="main"
+          # 最大3回までリトライ（実行中にmainが動いても耐性を持たせる）
+          for i in 1 2 3; do
+            git fetch origin "$BRANCH"
+            if git rebase "origin/$BRANCH"; then
+              if git push origin "HEAD:$BRANCH"; then
+                echo "Pushed successfully."
+                exit 0
+              fi
+            else
+              echo "Rebase failed. Aborting…"
+              git rebase --abort || true
+            fi
+            echo "Retry $i failed; sleeping and retrying…"
+            sleep $((i * 5))
+          done
+
+          echo "Failed to push after retries."
+          exit 1
