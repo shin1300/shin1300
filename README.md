@@ -37,9 +37,10 @@ Feel free to explore **the repositories** and recent commits!
 <div align="center">
   <!-- GitHub Readme Stats -->
 <img
-  src="https://github-profile-trophy.vercel.app/?username=shin1300&theme=flat&no-frame=true&column=4"
-  alt="GitHub Trophies"
+  src="https://streak-stats.demolab.com/?user=shin1300&hide_border=true&theme=transparent"
+  alt="GitHub Streak"
   width="55%" style="vertical-align:top;">
+
   <!-- 3D Contrib -->
   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph"
        width="40%" style="vertical-align:top;">
