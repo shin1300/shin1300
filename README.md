@@ -59,12 +59,12 @@ Feel free to explore **the repositories** and recent commits!
 
 <p align="center">
   <img
-    align="left" width="45%"
+    align="left" width="44%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
     alt="GitHub Stats (summary-cards)">
 
   <img
-    align="right" width="45%"
+    align="right" width="44%"
     src="./profile-3d-contrib/profile-gitblock.svg"
     alt="3D Contribution Graph">
 </p>
