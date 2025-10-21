@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # JST 03:00
+    - cron: "0 18 * * *"  
   workflow_dispatch:
 
 permissions:
@@ -19,8 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
-          fetch-depth: 0        # rebaseに必要
-          ref: main             # 常にmainで実行（必要なら変更）
+          fetch-depth: 0       
+          ref: main            
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -32,13 +32,11 @@ jobs:
           set -euo pipefail
           set -x
 
-          # gitの安全設定（稀に所有者警告が出る環境向け）
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          # 変更があるときだけコミット
           git add -A .
           if git diff --cached --quiet; then
             echo "No changes to commit."
@@ -47,7 +45,7 @@ jobs:
           git commit -m "generated 3d profile contributions"
 
           BRANCH="main"
-          # 最大3回までリトライ（実行中にmainが動いても耐性を持たせる）
+
           for i in 1 2 3; do
             git fetch origin "$BRANCH"
             if git rebase "origin/$BRANCH"; then
