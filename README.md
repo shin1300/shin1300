@@ -64,7 +64,7 @@ Feel free to explore **the repositories** and recent commits!
     alt="GitHub Stats (summary-cards)">
 
   <img
-    align="right" width="44%"
+    align="right" width="43%"
     src="./profile-3d-contrib/profile-gitblock.svg"
     alt="3D Contribution Graph">
 </p>
