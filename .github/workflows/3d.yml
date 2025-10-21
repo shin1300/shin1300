@@ -2,11 +2,12 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # JST 03:00
+    - cron: "0 18 * * *"  
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write         
+  pull-requests: write    
 
 concurrency:
   group: profile-3d
@@ -15,37 +16,41 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
-
-      - name: Set git identity
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          ref: main                
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: shin1300
 
-      # ← 生成後、差分をステージして rebase（autostash で作業内容は退避・復元）
-      - name: Sync with remote (rebase)
-        env:
-          BRANCH: ${{ github.ref_name }}
+      - name: Check diff
+        id: diff
         run: |
-          git add -A .
-          git fetch origin "$BRANCH"
-          git pull --rebase --autostash origin "$BRANCH"
-
-      - name: Commit & Push
-        env:
-          BRANCH: ${{ github.ref_name }}
-        run: |
-          if git diff --cached --quiet; then
-            echo "No changes."
-            exit 0
+          if git diff --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
-          git commit -m "generated 3d profile contributions"
-          git push origin HEAD:"$BRANCH"
+
+      - name: Create Pull Request
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "generated 3d profile contributions"
+          title: "chore(profile-3d): update generated SVGs"
+          body: |
+            Automated update of profile 3D contribution SVGs.
+            - Trigger: ${{ github.event_name }}
+            - Commit: ${{ github.sha }}
+          branch: chore/profile-3d/update-${{ github.run_id }}
+          base: main
+          labels: |
+            automated
+            profile-3d
+          delete-branch: true   
