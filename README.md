@@ -21,33 +21,53 @@ I love exploring new technologies. One of my favorite quotes is:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **Tech Stack**
 Here’s the **tech stack** I use in my daily research and development.
 
-[![Languages & Platforms](https://github-readme-tech-stack.vercel.app/api/cards?title=Languages%20%26%20Platforms&align=center&lineCount=3&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto&line3=raspberrypi,Raspberry%20Pi,auto;arduino,Arduino,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+<div align="center" style="width:100%;">
+  <a href="https://github-readme-tech-stack.vercel.app/api/cards">
+    <img
+      src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages%20%26%20Platforms&align=center&lineCount=3&line1=c,C,auto;cplusplus,C%2B%2B,auto;kotlin,Kotlin,auto;python,Python,auto&line2=typescript,TypeScript,auto;unity,Unity,auto;blender,Blender,auto&line3=raspberrypi,Raspberry%20Pi,auto;arduino,Arduino,auto"
+      alt="Languages & Platforms" width="100%" />
+  </a>
+  <br><br>
 
-[![Data & ML](https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+  <a href="https://github-readme-tech-stack.vercel.app/api/cards">
+    <img
+      src="https://github-readme-tech-stack.vercel.app/api/cards?title=Data%20%26%20ML&align=center&lineCount=2&line1=scikitlearn,scikit%E2%80%91learn,auto;tensorflow,TensorFlow,auto;pytorch,PyTorch,auto&line2=postgresql,PostgreSQL,auto"
+      alt="Data & ML" width="100%" />
+  </a>
+  <br><br>
 
-[![DevTools & Environment](https://github-readme-tech-stack.vercel.app/api/cards?title=DevTools%20%26%20Environment&align=center&lineCount=2&line1=git,Git,auto;docker,Docker,auto&line2=anaconda,Conda,auto;uv,uv,auto;nvidia,NVIDIA,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+  <a href="https://github-readme-tech-stack.vercel.app/api/cards">
+    <img
+      src="https://github-readme-tech-stack.vercel.app/api/cards?title=DevTools%20%26%20Environment&align=center&lineCount=2&line1=git,Git,auto;docker,Docker,auto&line2=anaconda,Conda,auto;uv,uv,auto;nvidia,NVIDIA,auto"
+      alt="DevTools & Environment" width="100%" />
+  </a>
+  <br><br>
 
-[![AI Assistants](https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20Assistants&align=center&lineCount=1&line1=githubcopilot,GitHub%20Copilot,auto;claude,Claude,auto;openai,Codex,auto)](https://github-readme-tech-stack.vercel.app/api/cards)
+  <a href="https://github-readme-tech-stack.vercel.app/api/cards">
+    <img
+      src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20Assistants&align=center&lineCount=1&line1=githubcopilot,GitHub%20Copilot,auto;claude,Claude,auto;openai,Codex,auto"
+      alt="AI Assistants" width="100%" />
+  </a>
+</div>
+
 
 <!-- GitHub Analytics -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **GitHub Analytics**
 A snapshot of my activity.  
 Feel free to explore **the repositories** and recent commits!
 
-<p align="center">
-  <!-- 左：Stats（枠なし） -->
-  <img
-    align="left" width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
-    alt="GitHub Stats (summary-cards)">
 
-  <!-- 右：3D Contrib（枠なし） -->
+<p align="center">
+  <!-- Stats -->
   <img
-    align="right" width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
+    alt="GitHub Stats (summary-cards)" width="49%">
+
+  <!-- 3D Contrib -->
+  <img
     src="./profile-3d-contrib/profile-gitblock.svg"
-    alt="3D Contribution Graph">
+    alt="3D Contribution Graph" width="49%">
 </p>
-<br clear="both"/>
 
 <!-- Contact -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact & Profiles**
