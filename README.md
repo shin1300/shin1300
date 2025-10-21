@@ -36,13 +36,13 @@ Feel free to explore **the repositories** and recent commits!
 
 <table>
   <tr>
-    <td width="55%" align="center">
+    <td width="45%" align="center">
       <!-- Stats -->
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin1300&theme=solarized"
         alt="GitHub Stats (summary-cards)" width="100%">
     </td>
-    <td width="45%" align="center">
+    <td width="55%" align="center">
       <!-- Contrib -->
       <img src="./profile-3d-contrib/profile-gitblock.svg"
            alt="3D Contribution Graph" width="100%">
