@@ -46,7 +46,7 @@ I work in ubiquitous computing, designing and implementing systems that seamless
  My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**.
  I love exploring new technologies. One of my favorite quotes is:
 
-> [!Note]
+> [!Tip]
 > **The best error message is the one that never shows up.**  
 > (You’ll also find it flowing through my Typograssy banner!)
 
@@ -115,46 +115,47 @@ Feel free to explore **the repositories** and recent commits!
 <!-- ===================== -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact & Profiles**
 
-Questions, ideas, or just want to chat?  
-Feel free to reach out — just **tap the icons below** 👇
-
-<ul style="list-style:none; padding-left:0;">
-  <li>
-    <a href="mailto:shintaro.niwamoto@ubi-lab.com">
-      <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-  </li>
-  <li>
-    <a href="https://x.com/ubishin130">
-      <img src="https://img.shields.io/badge/X-ubishin130-333?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
-    </a>
-  </li>
-  <li>
-    <a href="https://atcoder.jp/users/ubishin">
-      <img src="https://img.shields.io/badge/AtCoder-ubishin-333?style=flat-square" alt="AtCoder" />
-    </a>
-  </li>
-  <li>
-    <a href="https://www.kaggle.com/shinta120">
-      <img src="https://img.shields.io/badge/Kaggle-shinta120-333?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-    </a>
-  </li>
-  <li>
-    <a href="https://qiita.com/shin1300">
-      <img src="https://img.shields.io/badge/Qiita-shin1300-333?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
-    </a>
-  </li>
-  <li>
-    <a href="https://zenn.dev/ubishin">
-      <img src="https://img.shields.io/badge/Zenn-ubishin-333?style=flat-square" alt="Zenn" />
-    </a>
-  </li>
-  <li>
-    <a href="https://note.com/ubishin">
-      <img src="https://img.shields.io/badge/note-ubishin-333?style=flat-square" alt="note" />
-    </a>
-  </li>
-</ul>
+> [!NOTE]
+> Questions, ideas, or just want to chat?  
+> Feel free to reach out — just **tap the icons below** 👇
+>
+> <ul style="list-style:none; padding-left:0;">
+>   <li>
+>     <a href="mailto:shintaro.niwamoto@ubi-lab.com">
+>       <img src="https://img.shields.io/badge/Email-shintaro.niwamoto%40ubi--lab.com-333?style=flat-square&logo=gmail&logoColor=white" />
+>     </a>
+>   </li>
+>   <li>
+>     <a href="https://x.com/ubishin130">
+>       <img src="https://img.shields.io/badge/X-ubishin130-333?style=flat-square&logo=x&logoColor=white" alt="Twitter" />
+>     </a>
+>   </li>
+>   <li>
+>     <a href="https://atcoder.jp/users/ubishin">
+>       <img src="https://img.shields.io/badge/AtCoder-ubishin-333?style=flat-square" alt="AtCoder" />
+>     </a>
+>   </li>
+>   <li>
+>     <a href="https://www.kaggle.com/shinta120">
+>       <img src="https://img.shields.io/badge/Kaggle-shinta120-333?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+>     </a>
+>   </li>
+>   <li>
+>     <a href="https://qiita.com/shin1300">
+>       <img src="https://img.shields.io/badge/Qiita-shin1300-333?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" />
+>     </a>
+>   </li>
+>   <li>
+>     <a href="https://zenn.dev/ubishin">
+>       <img src="https://img.shields.io/badge/Zenn-ubishin-333?style=flat-square" alt="Zenn" />
+>     </a>
+>   </li>
+>   <li>
+>     <a href="https://note.com/ubishin">
+>       <img src="https://img.shields.io/badge/note-ubishin-333?style=flat-square" alt="note" />
+>     </a>
+>   </li>
+> </ul>
 
 ---
 
