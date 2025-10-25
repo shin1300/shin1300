@@ -9,7 +9,6 @@
 <div align="center">
 
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="28" style="vertical-align:-6px;margin-right:6px;">
     Shintaro Niwamoto 
   </h1>
 
@@ -24,10 +23,6 @@
 <!-- Cute-numbered Table of Contents    -->
 <!-- ================================== -->
 
-<!--
-  NOTE: GitHubは独自のアンカー（見出しから自動生成）を使います。
-  見出しのテキストとリンク先IDが一致するように、#以降は実見出しのIDに合わせています。
--->
 <div align="center">
 
 **Table of Contents**
@@ -48,7 +43,9 @@
 
 Hi, I'm **Shintaro Niwamoto**, a first-year master's student at Nara Institute of Science and Technology (NAIST).  
 I work in ubiquitous computing, designing and implementing systems that seamlessly integrate with the real world.  
-My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**. I love exploring new technologies. One of my favorite quotes is: > “**The best error message is the one that never shows up.**” (You’ll also find it flowing through my Typograssy banner!)
+My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**.
+I love exploring new technologies. One of my favorite quotes is:
+> “**The best error message is the one that never shows up.**” (You’ll also find it flowing through my Typograssy banner!)
 
 <!-- =========== -->
 <!-- Tech Stack  -->
