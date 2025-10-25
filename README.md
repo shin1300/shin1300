@@ -115,9 +115,9 @@ Feel free to explore **the repositories** and recent commits!
 <!-- ===================== -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Incoming Envelope" width="25" height="25" style="vertical-align:-4px; margin-right:8px;"> **Contact & Profiles**
 
+Questions, ideas, or just want to chat?  
+Feel free to reach out — just **tap the icons below** 👇
 > [!NOTE]
-> Questions, ideas, or just want to chat?  
-> Feel free to reach out — just **tap the icons below** 👇
 >
 > <ul style="list-style:none; padding-left:0;">
 >   <li>
