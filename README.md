@@ -10,20 +10,8 @@
 
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="28" style="vertical-align:-6px;margin-right:6px;">
-    Shintaro Niwamoto — Ubiquitous Computing
+    Shintaro Niwamoto 
   </h1>
-
-  <p>
-    Designing systems that blend into everyday life — LLMs, digital twins, text-to-motion, and sensing.
-  </p>
-
-  <!-- Quick Links -->
-  <p>
-    <a href="#-about-me">About</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-github-analytics">Analytics</a> •
-    <a href="#-contact--profiles">Contact</a>
-  </p>
 
   <!-- Typograssy (centered) -->
   <img
@@ -60,15 +48,7 @@
 
 Hi, I'm **Shintaro Niwamoto**, a first-year master's student at Nara Institute of Science and Technology (NAIST).  
 I work in ubiquitous computing, designing and implementing systems that seamlessly integrate with the real world.  
-My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**.
-
-<!-- Colored Tip (pastel card). GitHubは基本的にstyle属性が動きますが、
-     万一無効化されても本文は普通のblockquoteとして読めます。 -->
-<blockquote style="background: linear-gradient(90deg,#fff7d6, #f0ffef); padding:12px 14px; border-radius:12px; border:1px solid #eaecef;">
-  <strong style="font-size:14px;">Tip</strong><br/>
-  “<strong>The best error message is the one that never shows up.</strong>”<br/>
-  <span style="opacity:.8;">(You’ll also find it flowing through my Typograssy banner!)</span>
-</blockquote>
+My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**. I love exploring new technologies. One of my favorite quotes is: > “**The best error message is the one that never shows up.**” (You’ll also find it flowing through my Typograssy banner!)
 
 <!-- =========== -->
 <!-- Tech Stack  -->
