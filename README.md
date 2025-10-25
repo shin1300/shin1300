@@ -41,11 +41,12 @@
 <!-- ======== -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="26" height="26" style="vertical-align:-4px; margin-right:8px;"> **About Me**
 
-Hi, I'm **Shintaro Niwamoto**, a first-year master's student at Nara Institute of Science and Technology (NAIST).  
+ Hi, I'm **Shintaro Niwamoto**, a first-year master's student at Nara Institute of Science and Technology (NAIST).  
 I work in ubiquitous computing, designing and implementing systems that seamlessly integrate with the real world.  
-My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**.
-I love exploring new technologies. One of my favorite quotes is:
-> “**The best error message is the one that never shows up.**” (You’ll also find it flowing through my Typograssy banner!)
+ My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**.
+ I love exploring new technologies. One of my favorite quotes is:
+> “**The best error message is the one that never shows up.**” 
+(You’ll also find it flowing through my Typograssy banner!)
 
 <!-- =========== -->
 <!-- Tech Stack  -->
