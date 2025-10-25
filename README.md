@@ -45,8 +45,7 @@
 I work in ubiquitous computing, designing and implementing systems that seamlessly integrate with the real world.  
  My research interests include **LLMs**, **digital twins**, **text-to-motion**, and **sensing technologies**.
  I love exploring new technologies. One of my favorite quotes is:
-> “**The best error message is the one that never shows up.**” 
-(You’ll also find it flowing through my Typograssy banner!)
+> “**The best error message is the one that never shows up.**” (You’ll also find it flowing through my Typograssy banner!)
 
 <!-- =========== -->
 <!-- Tech Stack  -->
